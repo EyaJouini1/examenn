@@ -1,0 +1,18 @@
+C:\Users\ejouini\source\repos\Exemple\Interface\bin\Debug\Interface.exe.config
+C:\Users\ejouini\source\repos\Exemple\Interface\bin\Debug\Interface.exe
+C:\Users\ejouini\source\repos\Exemple\Interface\bin\Debug\Interface.pdb
+C:\Users\ejouini\source\repos\Exemple\Interface\bin\Debug\Parte 1.dll
+C:\Users\ejouini\source\repos\Exemple\Interface\bin\Debug\Parte 1.pdb
+C:\Users\ejouini\source\repos\Exemple\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\ejouini\source\repos\Exemple\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\ejouini\source\repos\Exemple\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\ejouini\source\repos\Exemple\Interface\obj\Debug\Interface.Nouveau_Moto.resources
+C:\Users\ejouini\source\repos\Exemple\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\ejouini\source\repos\Exemple\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\ejouini\source\repos\Exemple\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\ejouini\source\repos\Exemple\Interface\obj\Debug\Interface.csproj.CopyComplete
+C:\Users\ejouini\source\repos\Exemple\Interface\obj\Debug\Interface.exe
+C:\Users\ejouini\source\repos\Exemple\Interface\obj\Debug\Interface.pdb
+C:\Users\ejouini\source\repos\Exemple\Interface\obj\Debug\Interface.Moto_Infos.resources
+C:\Users\ejouini\source\repos\Exemple\Interface\obj\Debug\Interface.Nouvelle_Voiture.resources
+C:\Users\ejouini\source\repos\Exemple\Interface\obj\Debug\Interface.Voiture_Infos.resources

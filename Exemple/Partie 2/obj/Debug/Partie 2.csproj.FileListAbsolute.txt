@@ -1,0 +1,6 @@
+C:\Users\ejouini\source\repos\Exemple\Partie 2\bin\Debug\Partie 2.dll
+C:\Users\ejouini\source\repos\Exemple\Partie 2\bin\Debug\Partie 2.pdb
+C:\Users\ejouini\source\repos\Exemple\Partie 2\obj\Debug\Partie 2.csproj.AssemblyReference.cache
+C:\Users\ejouini\source\repos\Exemple\Partie 2\obj\Debug\Partie 2.csproj.CoreCompileInputs.cache
+C:\Users\ejouini\source\repos\Exemple\Partie 2\obj\Debug\Partie 2.dll
+C:\Users\ejouini\source\repos\Exemple\Partie 2\obj\Debug\Partie 2.pdb
